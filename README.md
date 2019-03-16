@@ -1,2 +1,2 @@
 # demo_git
-test synchro demo git
+test synchro git
